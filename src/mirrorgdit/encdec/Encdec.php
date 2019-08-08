@@ -11,7 +11,7 @@ namespace mirrorgdit\encdec;
 
 /**
  * Class Encdec
- * @package mirrorgdit\easywechat
+ * @package mirrorgdit\encdec
  */
 class Encdec
 {
