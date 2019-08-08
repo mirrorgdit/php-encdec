@@ -1,6 +1,6 @@
 # php-encdec
 
-[![Latest Stable Version](https://packagist.org/packages/mirrorgdit/php-encdec/v/stable)](https://packagist.org/packages/mirrorgdit/php-encdec)
+[![Latest Stable Version](https://poser.pugx.org/mirrorgdit/php-encdec/v/stable)](https://packagist.org/packages/mirrorgdit/php-encdec)
 [![Total Downloads](https://poser.pugx.org/mirrorgdit/php-encdec/downloads)](https://packagist.org/packages/mirrorgdit/php-encdec)
 [![License](https://poser.pugx.org/mirrorgdit/php-encdec/license)](https://packagist.org/packages/mirrorgdit/php-encdec)
 
