@@ -1,8 +1,8 @@
 # php-encdec
 
-[![Latest Stable Version](https://poser.pugx.org/jianyan74/php-excel/v/stable)](https://packagist.org/packages/jianyan74/php-excel)
-[![Total Downloads](https://poser.pugx.org/jianyan74/php-excel/downloads)](https://packagist.org/packages/jianyan74/php-excel)
-[![License](https://poser.pugx.org/jianyan74/php-excel/license)](https://packagist.org/packages/jianyan74/php-excel)
+[![Latest Stable Version](https://packagist.org/packages/mirrorgdit/php-encdec/v/stable)](https://packagist.org/packages/mirrorgdit/php-encdec)
+[![Total Downloads](https://poser.pugx.org/mirrorgdit/php-encdec/downloads)](https://packagist.org/packages/mirrorgdit/php-encdec)
+[![License](https://poser.pugx.org/mirrorgdit/php-encdec/license)](https://packagist.org/packages/mirrorgdit/php-encdec)
 
 ## 安装
 
