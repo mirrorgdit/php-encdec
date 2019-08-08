@@ -1,0 +1,22 @@
+{
+    "name": "mirrorgdit/php-encdec",
+    "description": "类似手机号码等数字串的加密解密",
+    "keywords": ["php", "dec", "enc", "mirrorgdit"],
+    "type": "extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mirrorgdit",
+            "email": "mirrorgdit@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "mirrorgdit\\encdec\\": "src/mirrorgdit/encdec"
+        }
+    }
+}
