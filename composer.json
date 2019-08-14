@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mirrorgdit\\encdec\\": "src/mirrorgdit/encdec"
+            "mirrorgdit\\encdec\\": "./src"
         }
     }
 }
